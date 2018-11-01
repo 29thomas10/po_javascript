@@ -1,0 +1,22 @@
+* {
+    font-family: "Courier New", Courier, monospace;
+}
+
+.peter {
+    border: 5px black;
+    padding: 15px;
+    background: rgb(211,211,211);
+    width: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: cover;
+    background-position: center;
+    color: red;
+    border-radius: 5px;
+    border: solid, 3px, rgb(211,211,211);
+}
+
+#kop {
+    background-color: red; 
+    
+ }

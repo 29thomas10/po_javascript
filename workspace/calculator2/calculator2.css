@@ -1,0 +1,68 @@
+.harry {
+    margin-right: auto;
+    margin-left: auto;
+    width: 319px;
+    
+}
+.button {
+    background-color: #afafaf; 
+    border: none;
+    color: white;
+    padding: 15px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    width: 75px;
+    height: 85px;
+}
+.button:hover {
+    background-color: #afafaf; 
+    border: none;
+    color: gray;
+    padding: 15px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    width: 75px;
+    height: 85px;
+    transition: 0.2s;
+
+}
+
+.operator {
+    background-color: #878a87; 
+    border: none;
+    color: white;
+    padding: 15px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    width: 75px;
+    height: 85px;
+}
+.operator:hover {
+    background-color: #878a87; 
+    border: none;
+    color: #514f4f;
+    padding: 15px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    width: 75px;
+    height: 85px;
+    transition: 0.2s;
+
+}
+#display {
+    background-color: black;
+    color: white;
+    padding: 13px;
+    border: none;
+    height: 80px;
+    width: 312px;
+    font-size: 30px;
+}
